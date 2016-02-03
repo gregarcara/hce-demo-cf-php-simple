@@ -7,6 +7,8 @@ This is a simple PHP app for the purpose of testing HCE deployment to Stackato. 
 Assuming [composer](http://getcomposer.org/) (PHP dependency manager) is installed, execute the following from the repo root:
 
     composer update
+    // or
+    php composer.phar update
 
 ## Execute tests
 There are trivial PHPUnit tests (the necessary components are installed by composer). To run the tests:
