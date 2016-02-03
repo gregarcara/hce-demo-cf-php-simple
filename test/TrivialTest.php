@@ -1,14 +1,9 @@
 <?php
 
-/**
- * Created by IntelliJ IDEA.
- * User: neilotoole
- * Date: 03/Feb/16
- * Time: 11:06
- */
-class PhaniPantsTest extends PHPUnit_Framework_TestCase {
 
-  public function testMyPants()
+class TrivialTest extends PHPUnit_Framework_TestCase {
+
+  public function testWillPass()
   {
     // Arrange
     $a = "hello";
@@ -19,7 +14,7 @@ class PhaniPantsTest extends PHPUnit_Framework_TestCase {
     $this->assertEquals($a, $b);
   }
 
-  public function testMyPants2()
+  public function testWillFail()
   {
     // Arrange
     $a = "hello";
