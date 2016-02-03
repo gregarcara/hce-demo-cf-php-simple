@@ -1,0 +1,15 @@
+{
+  "name": "hpe/hce-demo-cf-php-simple",
+  "description": "Simple PHP app for testing deployment to CF",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Neil O'Toole",
+      "email": "neil.otoole@hpe.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "4.8.22"
+  }
+}
