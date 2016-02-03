@@ -8,8 +8,5 @@
       "name": "Neil O'Toole",
       "email": "neil.otoole@hpe.com"
     }
-  ],
-  "require": {
-    "phpunit/phpunit": "4.8.22"
-  }
+  ]
 }
