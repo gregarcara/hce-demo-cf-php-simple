@@ -125,7 +125,7 @@
                 "shasum": ""
             },
             "require": {
-                "doctrine/instantiator": "1.0.2",
+                "doctrine/instantiator": "1.0.5",
                 "phpdocumentor/reflection-docblock": "~2.0",
                 "sebastian/comparator": "~1.1"
             },
@@ -497,7 +497,7 @@
                 "shasum": ""
             },
             "require": {
-                "doctrine/instantiator": "1.0.2",
+                "doctrine/instantiator": "1.0.5",
                 "php": ">=5.3.3",
                 "phpunit/php-text-template": "~1.2",
                 "sebastian/exporter": "~1.2"
