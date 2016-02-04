@@ -1,4 +1,4 @@
 applications:
 - name: hce-demo-cf-php-simple
   memory: 64M
-  buildpack: https://github.com/hpcloud/heroku-buildpack-php
+  buildpack: https://github.com/cloudfoundry/php-buildpack
