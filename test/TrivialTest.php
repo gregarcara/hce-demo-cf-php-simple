@@ -14,11 +14,11 @@ class TrivialTest extends PHPUnit_Framework_TestCase {
     $this->assertEquals($a, $b);
   }
 
-  public function testWillAlsoPass()
+  public function testWillFail()
   {
     // Arrange
     $a = "hello";
-    $b = "hello";
+    $b = "hello world";
 
 
     // Assert
